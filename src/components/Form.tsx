@@ -18,7 +18,7 @@ const Form = () => {
             <input type="text" placeholder="enter your last name" />
             <label>email</label>
             <input type="email" placeholder="@gmail.com" />
-            <label>Last Name</label>
+            <label>Password</label>
             <input type="password" placeholder="create a password" />
             <label>mobile</label>
             <input type="tel" placeholder="+91" min="10" max="10" />
